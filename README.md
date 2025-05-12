@@ -19,7 +19,6 @@ Projeto simples e funcional em Python que realiza previsões de reposição de e
 - Python 3.13  
 - pandas  
 - pyodbc  
-- openpyxl  
 - SQL Server  
 - Power BI (visualização)
 
@@ -34,7 +33,7 @@ Projeto simples e funcional em Python que realiza previsões de reposição de e
    
 2. **Instale as dependências**
    ```bash
-   pip install pandas pyodbc openpyxl
+   pip install pandas pyodbc
 
 3. **Configure a string de conexão no main.py**
    ```bash
